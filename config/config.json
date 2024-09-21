@@ -1,0 +1,9 @@
+{
+  "sigma_thresh": 3.0,
+  "zscore_trend_thresh": 2.5,
+  "lambda_multiplier": {
+    "1Min": 1002,
+    "1Day": 0.0436
+  },
+  "timeframe": "1Min"
+}

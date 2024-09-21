@@ -1,0 +1,10 @@
+alpaca-trade-api
+numpy
+pandas
+pandas_market_calendars
+scipy
+requests
+colorama
+aiohttp
+tenacity
+
